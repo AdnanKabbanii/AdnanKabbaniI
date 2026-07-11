@@ -2,7 +2,7 @@
 
 I’m a **Founding Engineer and full-stack software engineer** based in Lebanon, focused on taking **AI and SaaS products from idea to production**.
 
-I build complete production systems—from frontend experiences and backend APIs to AI agents, workflow orchestration, cloud infrastructure, billing, and third-party integrations.
+I build complete production systems - from frontend experiences and backend APIs to AI agents, workflow orchestration, cloud infrastructure, billing, and third-party integrations.
 
 ### Toolbox
 
