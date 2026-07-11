@@ -21,15 +21,15 @@ I build complete production systems - from frontend experiences and backend APIs
 - GraphQL
 
 #### Data & Infrastructure
-- PostgreSQL
+- AWS
+- GCP
 - Redis
-- Supabase
+- PostgreSQL
 - Firebase
 - Temporal
 - Celery
 - BullMQ
 - Docker
-- AWS
 - CI/CD
 
 #### Applied AI
