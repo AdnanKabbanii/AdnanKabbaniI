@@ -1,26 +1,54 @@
-I'm a Machine Learning Engineer based in Lebanon, passionate about building intelligent software solutions and constantly exploring the latest in AI, software development, and automation.
+## Hi, I’m Adnan
 
-### Toolbox 📦
+I’m a **Founding Engineer and full-stack software engineer** based in Lebanon, focused on taking **AI and SaaS products from idea to production**.
 
-#### Frontend Development
+I build complete production systems—from frontend experiences and backend APIs to AI agents, workflow orchestration, cloud infrastructure, billing, and third-party integrations.
+
+### Toolbox
+
+#### Frontend
 - React
 - Next.js
 - TypeScript
+- JavaScript
 
-#### Mobile App Development
-- Android Studio 📱
-- Flutter 📱
-
-#### Backend Development
-- Nest.js
+#### Backend
+- Node.js
+- Express
+- FastAPI
+- Spring Boot
+- REST APIs
 - GraphQL
-- Firebase
-- MySQL
-- pinecone
-- qdrant
 
-#### AI and Machine Learning
-- Natural Language Processing (NLP)
-- Time Series & Stock Forecasting
-- Image Recognition
-- LLM App Integration & Prompt Engineering
+#### Data & Infrastructure
+- PostgreSQL
+- Redis
+- Supabase
+- Firebase
+- Temporal
+- Celery
+- BullMQ
+- Docker
+- AWS
+- CI/CD
+
+#### Applied AI
+- OpenAI API and Agents SDK
+- RAG systems
+- Tool-calling agents
+- LLM orchestration
+- Natural Language Processing
+- AI workflow automation
+- Vector databases: Pinecone and Qdrant
+
+### What I Build
+
+- AI-powered SaaS products
+- Multi-tenant platforms
+- AI agents and automation workflows
+- Production backend systems
+- Full-stack web applications
+- Third-party and CMS integrations
+
+[Portfolio](https://adnankabbani.dev)  
+[LinkedIn](https://www.linkedin.com/in/adnan-m-kabbani)
